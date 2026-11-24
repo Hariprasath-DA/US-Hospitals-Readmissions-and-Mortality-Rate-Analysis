@@ -48,7 +48,7 @@
 
 <h1 align="center">Data Structure</h1>
 <div align="center">
-  <img width="350" src="data/data_info.png">
+  <img width="350" src="assets/data_info.png">
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
